@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Software Development and Artificial Intelligent<br>👯‍♂️ I'm looking to collaborate on projects with Java, Python , C# & JavaScript<br>🤝 I'm looking for help in Low Latency Applications and Cloud Projects <br>🌱 I'm currently learning Java FX and machine Learning Models<br>💬 Ask me about Complex Designs, Simple Algorithmic Strategies & Best Efficiency Software<br>🖼️ My Hobbies in 3D Modelling & Photography<br>📨 Reach me in suriya911ar@gmail.com
+🔭 I'm currently working on Software Development and Artificial Intelligent<br>👯‍♂️ I'm looking to collaborate on projects with Java, Python , C# & JavaScript<br>🤝 I'm looking for help in Low Latency Applications and Cloud Projects <br>🌱 I'm currently learning Java FX and machine Learning Models<br>💬 Ask me about Complex Designs, Simple Algorithmic Strategies & Best Efficiency Software<br>🖼️ My Hobbies in 3D Modelling & Photography<br>📨 Reach me in suriya911ai@gmail.com
 
 
 ## 🌐 Socials:
