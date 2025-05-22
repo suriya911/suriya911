@@ -161,14 +161,8 @@
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/metamask-colored.svg" alt="MetaMask" />
 </picture></a> &nbsp;
-<a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/alchemy-colored.svg" alt="Alchemy" />
-</picture></a> &nbsp;
 <a href="https://ipfs.io/" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/ipfs-colored-dark.svg" alt="IPFS" />
-</picture></a> &nbsp;
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/ethereum-colored.svg" alt="Ethereum" />
 </picture></a> &nbsp;
 <a href="https://polygon.technology/" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/polygon-colored.svg" alt="Polygon" />
