@@ -65,13 +65,13 @@ Hey, I'm Suriya — a **Software Developer** and **AI Engineer** deep in my GenA
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suriya911&theme=cobalt" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suriya911&theme=radical" alt="Profile Details" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suriya911&theme=cobalt" height="170" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suriya911&theme=cobalt" height="170" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=suriya911&theme=highcontrast&hide_border=true" height="170" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suriya911&theme=radical" height="170" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suriya911&theme=nord_dark" height="170" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=suriya911&theme=radical&hide_border=true" height="170" alt="GitHub Streak" />
 </div>
 
 ---
