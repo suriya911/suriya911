@@ -1,31 +1,29 @@
-# Hi, I'm Suriya Chellappan 👋
+<div align="center">
 
-## About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Suriya+Chellappan+%F0%9F%91%8B;AI+%2F+ML+Engineer;Full-Stack+Developer;Building+with+GenAI+%7C+LLMs+%7C+RAG" alt="Typing SVG" />
 
-- 🔭 Currently building **AI/ML Projects** — GenAI applications, LLMs & RAG pipelines
-- 👯 Open to collaborating on **Python, TypeScript/JavaScript, and Cloud-native projects**
-- 🤝 Looking for help with **Low Latency Applications and Cloud Architecture**
-- 🌱 Currently deepening expertise in **LLM fine-tuning, RAG systems, and MLOps**
-- 💬 Ask me about **AI/ML Engineering, Full-Stack Development, and System Design**
-- 🎮 Hobbies: **Video Games, Chess, Photography, Nature Trips & Gym**
-- 📫 Reach me at: **suriyachellappan17@gmail.com**
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suriya-chellappan/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/suriya911)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/suriya911)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com/users/suriya911)
+[![Mail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suriyachellappan17@gmail.com)
+
+</div>
 
 ---
 
-## Socials
+## About Me
 
-<a href="https://www.github.com/suriya911" target="_blank" rel="noreferrer">
-<picture><img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg" alt="GitHub" /></picture>
-</a> &nbsp;
-<a href="https://www.linkedin.com/in/suriya-chellappan/" target="_blank" rel="noreferrer">
-<picture><img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/linkedin.svg" alt="LinkedIn" /></picture>
-</a> &nbsp;
-<a href="https://www.x.com/suriya911" target="_blank" rel="noreferrer">
-<picture><img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/twitter-dark.svg" alt="X / Twitter" /></picture>
-</a> &nbsp;
-<a href="https://www.discord.com/users/suriya911" target="_blank" rel="noreferrer">
-<picture><img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/discord.svg" alt="Discord" /></picture>
-</a>
+I'm a software engineer focused on **AI/ML Engineering** and **Full-Stack Development**, with a strong interest in building production-ready GenAI systems — from LLM pipelines and RAG architectures to scalable cloud applications.
+
+- **Currently building** — GenAI applications, LLM & RAG pipelines
+- **Looking to collaborate on** — Python, TypeScript/JavaScript, and Cloud-native projects
+- **Currently deepening** — LLM fine-tuning, RAG systems, and MLOps
+- **Ask me about** — AI/ML Engineering, Full-Stack Dev, System Design
+- **Looking for help with** — Low Latency Applications and Cloud Architecture
+- **Outside the terminal** — Video Games · Chess · Photography · Nature Trips · Gym
 
 ---
 
@@ -33,61 +31,46 @@
 
 **Languages**
 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><picture><img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/python-colored.svg" alt="Python" /></picture></a> &nbsp;
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><picture><img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" /></picture></a> &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><picture><img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" /></picture></a> &nbsp;
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><picture><img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/java-colored.svg" alt="Java" /></picture></a> &nbsp;
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><picture><img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/csharp-colored.svg" alt="C#" /></picture></a>
+[![Skills](https://skillicons.dev/icons?i=python,typescript,javascript,java,cs)](https://skillicons.dev)
 
 **AI / ML**
 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><picture><img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" /></picture></a> &nbsp;
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><picture><img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" /></picture></a>
+[![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev)
 
 **Frontend**
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><picture><img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/react-colored.svg" alt="React" /></picture></a> &nbsp;
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><picture><img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/nextjs-colored-dark.svg" alt="Next.js" /></picture></a> &nbsp;
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><picture><img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" /></picture></a> &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><picture><img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/html5-colored.svg" alt="HTML5" /></picture></a> &nbsp;
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><picture><img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/css3-colored.svg" alt="CSS3" /></picture></a>
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css)](https://skillicons.dev)
 
 **Backend**
 
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><picture><img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/nodejs-colored.svg" alt="Node.js" /></picture></a> &nbsp;
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><picture><img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/express-colored-dark.svg" alt="Express" /></picture></a> &nbsp;
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><picture><img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/fastapi-colored.svg" alt="FastAPI" /></picture></a> &nbsp;
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><picture><img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/django-colored-dark.svg" alt="Django" /></picture></a> &nbsp;
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><picture><img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" /></picture></a> &nbsp;
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><picture><img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/graphql-colored.svg" alt="GraphQL" /></picture></a>
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,graphql)](https://skillicons.dev)
 
 **Databases & Cloud**
 
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><picture><img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" /></picture></a> &nbsp;
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><picture><img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" /></picture></a> &nbsp;
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><picture><img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/mysql-colored.svg" alt="MySQL" /></picture></a> &nbsp;
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><picture><img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/firebase-colored.svg" alt="Firebase" /></picture></a> &nbsp;
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><picture><img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/aws-colored-dark.svg" alt="AWS" /></picture></a> &nbsp;
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><picture><img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" /></picture></a> &nbsp;
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><picture><img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/docker-colored.svg" alt="Docker" /></picture></a>
+[![Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,aws,gcp,docker)](https://skillicons.dev)
 
 **Tools & Design**
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><picture><img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/git-colored.svg" alt="Git" /></picture></a> &nbsp;
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><picture><img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/linux-colored.svg" alt="Linux" /></picture></a> &nbsp;
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><picture><img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/figma-colored.svg" alt="Figma" /></picture></a> &nbsp;
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><picture><img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/blender-colored.svg" alt="Blender" /></picture></a>
+[![Skills](https://skillicons.dev/icons?i=git,linux,figma,blender)](https://skillicons.dev)
 
 ---
 
 ## GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=suriya911&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suriya911&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suriya911&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suriya911&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suriya911&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" alt="Top Languages" />
+</div>
 
 ---
 
-### ✍️ Random Dev Quote
+<div align="center">
+
+### ✍️ Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
