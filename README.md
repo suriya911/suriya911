@@ -7,7 +7,7 @@
 - 🤝 Looking for help with **Low Latency Applications and Cloud Architecture**
 - 🌱 Currently deepening expertise in **LLM fine-tuning, RAG systems, and MLOps**
 - 💬 Ask me about **AI/ML Engineering, Full-Stack Development, and System Design**
-- 🖼️ Hobbies: **3D Modelling & Photography**
+- 🎮 Hobbies: **Video Games, Chess, Photography, Nature Trips & Gym**
 - 📫 Reach me at: **suriyachellappan17@gmail.com**
 
 ---
