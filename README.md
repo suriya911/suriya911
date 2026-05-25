@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hola+folks%2C+I'm+Suriya+%F0%9F%91%8B;AI+%2F+ML+Engineer;Software+Developer;Building+ +GenAI+%7C+LLMs+%7C+RAG+ Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hola+folks%2C+I'm+Suriya+%F0%9F%91%8B;AI+Engineer+%26+Software+Developer;Building+GenAI+%7C+LLMs+%7C+RAG+Systems" alt="Typing SVG" />
 
 <br/>
 
@@ -66,7 +66,7 @@ Hey, I'm Suriya — a **Software Developer** and **AI Engineer** deep in my GenA
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suriya911&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suriya911&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=suriya911&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
 </div>
 
 <div align="center">
